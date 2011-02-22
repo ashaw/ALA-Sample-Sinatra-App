@@ -1,0 +1,1 @@
+This is a sample Sinatra app as a companion to my piece "[Rapid Prototyping with Sinatra](http://www.alistapart.com/articles/rapid-prototyping-with-sinatra/)" in A List Apart.
